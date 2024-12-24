@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C++: accessing elements in a `std::vector` without checking the bounds.  The `bug.cpp` file shows the erroneous code, while `bugSolution.cpp` provides a corrected version with proper bounds checking.  Improper access can lead to crashes or unpredictable behavior.  Always ensure you're accessing vector elements within valid indices.
